@@ -1,2 +1,4 @@
 hello world!
 master
+絶対にコンフリクトさせない！
+
