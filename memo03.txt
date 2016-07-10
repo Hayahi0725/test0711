@@ -1,7 +1,13 @@
 hello world!
 develop
+<<<<<<< HEAD
 sub
 sub
 sub
 sub
 sub
+=======
+master
+master
+master
+>>>>>>> 14caac31a9cc349794f15d55d8614b4679be834a
